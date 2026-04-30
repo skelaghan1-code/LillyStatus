@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/skelaghan1-code/elilillystatus/
+    type: markup
